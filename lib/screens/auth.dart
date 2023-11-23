@@ -107,7 +107,7 @@ class _AuthScreenState extends State<AuthScreen> {
                             ),
                           TextFormField(
                             decoration: const InputDecoration(
-                              labelText: 'Input Text',
+                              labelText: 'Email',
                             ),
                             keyboardType: TextInputType.emailAddress,
                             autocorrect: false,
